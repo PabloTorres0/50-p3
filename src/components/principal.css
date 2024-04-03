@@ -1,0 +1,23 @@
+
+.container-component{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    
+}
+
+header{
+    padding: 6rem 4rem 0 4rem;
+}
+
+main{
+    padding: 0 4rem;
+}
+
+img{
+    width: 100%;
+}
+p{
+    text-align: justify;
+    line-height: 25px;
+}
